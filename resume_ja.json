@@ -1,0 +1,84 @@
+{
+  "name": {
+    "kanji": "久保田翔太",
+    "furigana": "くぼたしょうた"
+  },
+  "overview": "主にフロントエンドエンジニアとしてHTML/CSSやJavaScriptを用いたWeb向けサービスの開発を立ち上げから運用まで経験してきた。",
+  "url": {
+    "twitter": "https://twitter.com/kubosho_",
+    "github": "https://github.com/kubosho",
+    "speaker_deck": "https://speakerdeck.com/kubosho",
+    "blog": "https://blog.kubosho.com/"
+  },
+  "job_history": [
+    {
+      "name": "面白法人カヤック",
+      "description": "マークアップエンジニアとして、ソーシャルゲーム事業部や受託チームでゲームの新規開発・運用、受託案件を担当した。",
+      "start_date": "2010-11-01",
+      "end_date": "2012-12-31"
+    },
+    {
+      "name": "株式会社グラニ",
+      "description": "フロントエンドエンジニアとして、ASP.NET MVCのテンプレートエンジンであるRazorを使ったページの作成や、FLOCSSやBEMやAtomic Designを参考にしたCSS設計、TypeScriptとKnockout.jsベースのフレームワークを使ったUIロジックの実装を担当した。",
+      "start_date": "2013-05-01",
+      "end_date": "2016-07-08"
+    },
+    {
+      "name": "株式会社グッドパッチ",
+      "description": "フロントエンドエンジニアとして、Angular.jsやCoffeeScriptを使い新機能の実装やMVCがあまり徹底されていなかったのでデータフローの改善をおこなおうとした。具体的な内容は https://speakerdeck.com/kubosho/protthurontoendofalseimatokorekara にまとめている。",
+      "start_date": "2016-07-11",
+      "end_date": "2017-03-31"
+    },
+    {
+      "name": "株式会社サイバーエージェント",
+      "description": "主にフロントエンドエンジニアとして、AbemaTVの開発を担当している。主にReactやRxJSやTypeScriptを使って新機能実装を担当しているが、CSS周りをCSS ModulesからBEM + PostCSSベースに置き換えるなどの「捨てやすく」「秩序がある」コードにするリファクタリングもおこなっている。また現在進行中なものとしてプロダクトに適したReset CSSの適用やReduxベースのデータフローへ置き換えるための評価をおこなっている。他にもフロントエンド関連だけでなく、デプロイの自動化を導入すべくDockerfileやKubernetesの設定ファイルを触ったり、SSRの実装のために各種マイクロサービスとgRPCでやり取りし初期表示用のHTMLをReactのrenderToString()を使って組み立てたあと返すような実装をおこなったり、アクセシビリティの向上について考えたりしている。",
+      "start_date": "2017-04-01"
+    }
+  ],
+  "skill_set": [
+    {
+      "library": [
+        {
+          "name": "React",
+          "description": "2年以上の経験。メンテナンス性の高いコンポーネントを作れる。"
+        },
+        {
+          "name": "RxJS",
+          "description": "2年以上の経験。マーブルダイアグラムを見てどんなオペレーターなのかだいたい分かる。"
+        }
+      ],
+      "programming_language": [
+        {
+          "name": "HTML/CSS",
+          "description": "10年以上の経験。WHATWGやW3Cなどの仕様を読み意味を捉えた上で実装をおこなえる。またCascadingを意識したCSSを書ける。"
+        },
+        {
+          "name": "JavaScript",
+          "description": "6年以上の経験。プロダクトに今までなかったビジネスロジックを自走して実装できる。"
+        },
+        {
+          "name": "TypeScript",
+          "description": "5年以上の経験。特に問題なくTyepScriptを書ける。必要があればd.tsを書ける。"
+        },
+        {
+          "name": "Node.js",
+          "description": "2年以上の経験。Expressに頼らずhttp moduleとUniversal Routerを使ってルーティング処理を実装できる。"
+        },
+        {
+          "name": "Go",
+          "description": "コードをある程度読める。必要があればちょっとしたコードを書ける。"
+        }
+      ],
+      "natural_language": [
+        {
+          "name": "日本語",
+          "description": "母国語者"
+        },
+        {
+          "name": "English",
+          "description": "平易な文章であれば辞書や自動翻訳を使わなくても意味を読み解ける。"
+        }
+      ]
+    }
+  ]
+}
